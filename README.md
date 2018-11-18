@@ -1,7 +1,6 @@
 # WPEngine Featured Posts
 * Contributors: Jeff Ward
-* Donate link: hi@hello-jeff.com
-* Tags: pages, templates, page templates
+* Tags: pages, templates, featured posts
 * Requires at least: 4.9.8
 * Tested up to: 4.9.8
 * Stable tag: 4.9.8
